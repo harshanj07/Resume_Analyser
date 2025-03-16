@@ -35,9 +35,9 @@
 
 - Admin side credentials is `admin` and password is `admin`. 
 
-## Screenshots
+ <!-- ## Screenshots
 ## Admin Side
-<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png">
+<img src="https://github.com/Spidy20/Smart_Resume_Analyser_App/blob/master/sc2.png"> -->
 
 
 
